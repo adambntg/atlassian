@@ -38,7 +38,7 @@ export default function CustomClothingHomepage() {
       <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${scrollY > 50 ? 'bg-white/90 backdrop-blur-md shadow-lg' : 'bg-transparent'}`}>
         <nav className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
+            <div className="text-2xl font-bold bg-gradient-to-r text-gray-600 bg-clip-text text-transparent">
               Atlassian Wirussian
             </div>
             
